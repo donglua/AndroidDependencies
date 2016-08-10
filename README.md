@@ -1,7 +1,7 @@
 # AndroidDependencies
 Android 常用库集
 
-## 使用
+## 使用方法
 * 在项目根节点的```build.gradle```文件开头加上一句：
 ```gradle
 apply from: 'https://raw.githubusercontent.com/donglua/AndroidDependencies/master/dependencies.gradle'
