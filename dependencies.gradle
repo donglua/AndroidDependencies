@@ -4,7 +4,7 @@ ext {
   retrofitLibVersion = "2.1.0"
   okhttpLibVersion = "3.4.1"
   daggerLibVersion = "2.2"
-  rxjavaLibVersion = "1.1.7"
+  rxjavaLibVersion = "1.1.8"
   rxAndroidVersion = "1.2.1"
   gsonLibVersion = "2.6.2"
   rxBindingVersion = "0.4.0"
